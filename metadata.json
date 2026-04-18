@@ -1,0 +1,6 @@
+{
+  "name": "Deriv Volatility Prediction Engine v2.0",
+  "description": "Sophisticated real-time market analysis tool for Deriv volatility indices, featuring multi-timeframe structure analysis, order flow imbalance, and momentum confluence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
